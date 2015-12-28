@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThunderFlix</string>
+    <string name="higly_rated">Highly Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_grossing">Highest Grossing</string>
+    <string name="error">Error! Try again please.</string>
+    <string name="title_activity_movie_detail_activty">MovieDetailActivty</string>
+
+</resources>
