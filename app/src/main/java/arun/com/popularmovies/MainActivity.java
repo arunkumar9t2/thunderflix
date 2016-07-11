@@ -29,7 +29,8 @@ import arun.com.popularmovies.tasks.MovieFetcherTask;
 
 public class MainActivity extends AppCompatActivity {
 
-    public final static String API = "";
+    public final static String API = BuildConfig.MOVIEDB_API_KEY;
+
     private static final String TAG = MainActivity.class.getSimpleName();
 
     @Override
